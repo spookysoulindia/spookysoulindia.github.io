@@ -71366,7 +71366,7 @@ var $async$nF=A.a8(function(b,c){if(b===1){o=c
 s=p}while(true)switch(s){case 0:p=4
 m=t.z
 s=7
-return A.ah(n.a.lE("http://localhost:3000/getrecommendations",A.Y(["code",a],t.N,m),A.r2(u.F),m),$async$nF)
+return A.ah(n.a.lE("https://spookysoul.herokuapp.com/getrecommendations",A.Y(["code",a],t.N,m),A.r2(u.F),m),$async$nF)
 case 7:m=c
 q=m
 s=1
